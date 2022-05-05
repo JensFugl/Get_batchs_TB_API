@@ -1,3 +1,3 @@
-# Get_baches
+# Get_batches
  
- Module created to communicate with Thingsboard API.
+Module created to easily extact experiment data from Thingsboard IoT platform
